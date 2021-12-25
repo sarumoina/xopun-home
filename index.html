@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Ava Template</title>
+    <title>Xopun.com</title>
     <link href="https://fonts.googleapis.com/css?family=Lato:400,400i|Roboto:500" rel="stylesheet">
     <link rel="stylesheet" href="dist/css/style.css">
     <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
@@ -50,8 +50,8 @@
             <section class="hero text-center">
                 <div class="container-sm">
                     <div class="hero-inner">
-                        <h1 class="hero-title h2-mobile mt-0 is-revealing">Landing template for startups</h1>
-                        <p class="hero-paragraph is-revealing">Our landing page template works for all the devices, so you only have to setup it once, and get beautiful results forever.</p>
+                        <h1 class="hero-title h2-mobile mt-0 is-revealing">Xopun.com</h1>
+                        <p class="hero-paragraph is-revealing">Just a collection of my personal projects</p>
                         <div class="hero-form newsletter-form field field-grouped is-revealing">
                             <div class="control control-expanded">
                                 <input class="input" type="email" name="email" placeholder="Your best email&hellip;">
@@ -189,8 +189,8 @@
                                             </g>
                                         </svg>
                                     </div>
-                                    <h3 class="feature-title">Discover</h3>
-                                    <p class="text-sm">Where text is visible, people tend to focus on the textual content rather than upon overall presentation.</p>
+                                    <h3 class="feature-title">Laravel</h3>
+                                    <p class="text-sm">Some projects I've made is in laravel. Trying to learn how to implement laravel in a big project.</p>
                                 </div>
                             </div>
                             <div class="feature is-revealing">
@@ -203,8 +203,8 @@
                                             </g>
                                         </svg>
                                     </div>
-                                    <h3 class="feature-title">Discover</h3>
-                                    <p class="text-sm">Where text is visible, people tend to focus on the textual content rather than upon overall presentation.</p>
+                                    <h3 class="feature-title">Next.js</h3>
+                                    <p class="text-sm">After Laravel, nextjs will the favorite framework that I like to work with. With the release of nextjs 12, it has been a pleasure to code.</p>
                                 </div>
                             </div>
                         </div>
@@ -221,8 +221,8 @@
                                         </svg>
 
                                     </div>
-                                    <h3 class="feature-title">Discover</h3>
-                                    <p class="text-sm">Where text is visible, people tend to focus on the textual content rather than upon overall presentation.</p>
+                                    <h3 class="feature-title">Mongodb</h3>
+                                    <p class="text-sm">The backend database preference is mostly mongodb due to its robust structure while handling big data.</p>
                                 </div>
                             </div>
                             <div class="feature is-revealing">
@@ -236,8 +236,8 @@
                                             </g>
                                         </svg>
                                     </div>
-                                    <h3 class="feature-title">Discover</h3>
-                                    <p class="text-sm">Where text is visible, people tend to focus on the textual content rather than upon overall presentation.</p>
+                                    <h3 class="feature-title">Mariadb</h3>
+                                    <p class="text-sm">If due to some restrictions mongodb implementation isn't possible, I always tend to go for mariadb.</p>
                                 </div>
                             </div>
                         </div>
@@ -250,7 +250,7 @@
                     <div class="newsletter-inner section-inner">
                         <div class="newsletter-header text-center is-revealing">
                             <h2 class="section-title mt-0">Stay in the know</h2>
-                            <p class="section-paragraph">Lorem ipsum is common placeholder text used to demonstrate the graphic elements of a document or visual presentation</p>
+                            <p class="section-paragraph">The site is still under construction so there might be glitches here and there.</p>
                         </div>
                         <div class="footer-form newsletter-form field field-grouped is-revealing">
                             <div class="control control-expanded">
@@ -330,12 +330,15 @@
                             </a>
                         </li>
                     </ul>
-                    <div class="footer-copyright">&copy; 2018 Ava, all rights reserved</div>
+                    <div class="footer-copyright">&copy;  &nbsp;<span id="year"></span> &nbsp; xopun.com</div>
                 </div>
             </div>
         </footer>
     </div>
 
     <script src="dist/js/main.min.js"></script>
+    <script type="text/javascript">
+        document.getElementById("year").innerHTML = new Date().getFullYear();
+    </script>
 </body>
 </html>
