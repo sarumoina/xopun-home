@@ -81,6 +81,6 @@ class __TwigTemplate_e7d5b2ec20b8edd92702c6a862f5ed487f68c648df6c9d13f318e57720a
     public function getSourceContext()
     {
         return new Source("{% block panel '' %}
-", "@WebProfiler/Profiler/ajax_layout.html.twig", "/home/itachi/srv/xopun-home/home/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/ajax_layout.html.twig");
+", "@WebProfiler/Profiler/ajax_layout.html.twig", "/home/itachi/srv/xopun-home/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/ajax_layout.html.twig");
     }
 }

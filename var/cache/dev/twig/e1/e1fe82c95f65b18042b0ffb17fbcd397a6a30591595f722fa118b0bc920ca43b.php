@@ -1671,6 +1671,6 @@ class __TwigTemplate_b06ee701c941de70570fbd0327e3a791fc159fb989743608d9a9e422275
         </tbody>
     </table>
 {% endmacro %}
-", "@Doctrine/Collector/db.html.twig", "/home/itachi/srv/xopun-home/home/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
+", "@Doctrine/Collector/db.html.twig", "/home/itachi/srv/xopun-home/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
     }
 }

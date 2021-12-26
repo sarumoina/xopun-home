@@ -737,6 +737,6 @@ class __TwigTemplate_15ce19d8e57c72da3380bc9a19866dfbdf5e2d555f342f9a60f936c2c7f
         </div>
     {% endfor %}
 {% endblock %}
-", "@WebProfiler/Collector/mailer.html.twig", "/home/itachi/srv/xopun-home/home/vendor/symfony/web-profiler-bundle/Resources/views/Collector/mailer.html.twig");
+", "@WebProfiler/Collector/mailer.html.twig", "/home/itachi/srv/xopun-home/vendor/symfony/web-profiler-bundle/Resources/views/Collector/mailer.html.twig");
     }
 }

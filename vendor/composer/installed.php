@@ -1,24 +1,15 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
+        'pretty_version' => 'v6.0.99',
+        'version' => '6.0.99.0',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '8d42a7b255e13068c03b1957ad65eb186b90bd3b',
-        'name' => '__root__',
+        'reference' => NULL,
+        'name' => 'symfony/website-skeleton',
         'dev' => true,
     ),
     'versions' => array(
-        '__root__' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
-            'type' => 'project',
-            'install_path' => __DIR__ . '/../../',
-            'aliases' => array(),
-            'reference' => '8d42a7b255e13068c03b1957ad65eb186b90bd3b',
-            'dev_requirement' => false,
-        ),
         'composer/package-versions-deprecated' => array(
             'pretty_version' => '1.11.99.4',
             'version' => '1.11.99.4',
@@ -1261,6 +1252,15 @@
             'aliases' => array(),
             'reference' => '1f5cdd397af4a87ac6f6890653e92bf3d14ebadc',
             'dev_requirement' => true,
+        ),
+        'symfony/website-skeleton' => array(
+            'pretty_version' => 'v6.0.99',
+            'version' => '6.0.99.0',
+            'type' => 'project',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => NULL,
+            'dev_requirement' => false,
         ),
         'symfony/yaml' => array(
             'pretty_version' => 'v6.0.1',

@@ -23,7 +23,7 @@ final class Versions
      * @deprecated please use {@see self::rootPackageName()} instead.
      *             This constant will be removed in version 2.0.0.
      */
-    const ROOT_PACKAGE_NAME = '__root__';
+    const ROOT_PACKAGE_NAME = 'symfony/website-skeleton';
 
     /**
      * Array of all available composer packages.
@@ -161,13 +161,13 @@ final class Versions
   'symfony/phpunit-bridge' => 'v6.0.0@5d6cc6720085084f504d2482fc4a2f268784006b',
   'symfony/web-profiler-bundle' => 'v6.0.1@1f5cdd397af4a87ac6f6890653e92bf3d14ebadc',
   'theseer/tokenizer' => '1.2.1@34a41e998c2183e22995f158c581e7b5e755ab9e',
-  'symfony/polyfill-ctype' => '*@8d42a7b255e13068c03b1957ad65eb186b90bd3b',
-  'symfony/polyfill-iconv' => '*@8d42a7b255e13068c03b1957ad65eb186b90bd3b',
-  'symfony/polyfill-php72' => '*@8d42a7b255e13068c03b1957ad65eb186b90bd3b',
-  'symfony/polyfill-php73' => '*@8d42a7b255e13068c03b1957ad65eb186b90bd3b',
-  'symfony/polyfill-php74' => '*@8d42a7b255e13068c03b1957ad65eb186b90bd3b',
-  'symfony/polyfill-php80' => '*@8d42a7b255e13068c03b1957ad65eb186b90bd3b',
-  '__root__' => 'dev-master@8d42a7b255e13068c03b1957ad65eb186b90bd3b',
+  'symfony/polyfill-ctype' => '*@',
+  'symfony/polyfill-iconv' => '*@',
+  'symfony/polyfill-php72' => '*@',
+  'symfony/polyfill-php73' => '*@',
+  'symfony/polyfill-php74' => '*@',
+  'symfony/polyfill-php80' => '*@',
+  'symfony/website-skeleton' => 'v6.0.99@',
 );
 
     private function __construct()

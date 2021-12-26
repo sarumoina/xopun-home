@@ -194,6 +194,6 @@ class __TwigTemplate_cb7ab4e0dd5b0392a2129f18da483e66fd668d1482f5abfbb2cef523d7c
         {% block body %}{% endblock %}
     </body>
 </html>
-", "base.html.twig", "/home/itachi/srv/xopun-home/home/templates/base.html.twig");
+", "base.html.twig", "/home/itachi/srv/xopun-home/templates/base.html.twig");
     }
 }

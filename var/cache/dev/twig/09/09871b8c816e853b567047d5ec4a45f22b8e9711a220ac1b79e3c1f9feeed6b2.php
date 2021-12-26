@@ -174,6 +174,6 @@ class __TwigTemplate_55076a5165790cb97e9df40b5c5abf2ef12fef33b3f542f46586bd744e3
         {% endif %}
     </div>
 {% endblock %}
-", "@WebProfiler/Profiler/open.html.twig", "/home/itachi/srv/xopun-home/home/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/open.html.twig");
+", "@WebProfiler/Profiler/open.html.twig", "/home/itachi/srv/xopun-home/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/open.html.twig");
     }
 }

@@ -130,6 +130,6 @@ class __TwigTemplate_b78307478e65d96fc26d0fdc00c0c5bbf1ff885bcf6fe08e5a0033f3be6
         Sfjs.loadToolbar('{{ token }}');
     })();
 /*]]>*/</script>
-", "@WebProfiler/Profiler/toolbar_js.html.twig", "/home/itachi/srv/xopun-home/home/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/toolbar_js.html.twig");
+", "@WebProfiler/Profiler/toolbar_js.html.twig", "/home/itachi/srv/xopun-home/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/toolbar_js.html.twig");
     }
 }

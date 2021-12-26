@@ -1349,6 +1349,6 @@ class __TwigTemplate_e1807cd8ada365fdd1a6857b9b96e48b7c316c63721dd1876d42d215e10
         <span>{{ route|default(controller) }}</span>
     {%- endif %}
 {% endmacro %}
-", "@WebProfiler/Collector/request.html.twig", "/home/itachi/srv/xopun-home/home/vendor/symfony/web-profiler-bundle/Resources/views/Collector/request.html.twig");
+", "@WebProfiler/Collector/request.html.twig", "/home/itachi/srv/xopun-home/vendor/symfony/web-profiler-bundle/Resources/views/Collector/request.html.twig");
     }
 }

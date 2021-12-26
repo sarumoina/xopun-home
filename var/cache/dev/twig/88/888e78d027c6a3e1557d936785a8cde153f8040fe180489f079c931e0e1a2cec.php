@@ -330,6 +330,6 @@ class __TwigTemplate_502dbcef042144eab7efe0df18bc5b3968cb16ac839b7490f1bebccdb8f
     {% endif %}
 
 {% endblock %}
-", "@WebProfiler/Profiler/results.html.twig", "/home/itachi/srv/xopun-home/home/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/results.html.twig");
+", "@WebProfiler/Profiler/results.html.twig", "/home/itachi/srv/xopun-home/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/results.html.twig");
     }
 }
